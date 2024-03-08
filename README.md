@@ -1,4 +1,4 @@
-![Uploading thumbnail.jpg…]()
+![thumbnail](https://github.com/the-PrafulDesai/ImageSearchEngine/assets/108045971/77cad576-6b87-4233-97bd-260e59bfc037)
 
 # Image Search Application
 
